@@ -1,5 +1,5 @@
 # fec-donation-aggregator
-
+# The article that this code was written for [has now been published](https://tuftsdaily.atavist.com/tufts-faculty-donate-15-million-to-political-organizations-overwhelmingly-to-democrats)!
 ## Background
 The Donation Aggregator is a Python tool to compile FEC donation data for easier analysis and interpretation. Developed for the Tufts Daily.
 
